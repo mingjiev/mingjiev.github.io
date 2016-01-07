@@ -1,6 +1,7 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 ---
 layout: post
-title: Google Protocol Buffer
+title: [TECH]Google Protocol Buffer
 tags: default
 ---
 **简介**

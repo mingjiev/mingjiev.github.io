@@ -3,7 +3,6 @@ layout: post
 title: [TECH]Google Protocol Buffer
 tags: default
 ---
-<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 **简介**
 *什么是Google Protocol Buffer？*
 

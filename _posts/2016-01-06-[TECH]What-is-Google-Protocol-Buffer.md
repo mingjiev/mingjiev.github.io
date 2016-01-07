@@ -2,6 +2,7 @@
 layout: post
 title: [TECH] Google Protocol Buffer
 ---
+
 **简介**
 *什么是Google Protocol Buffer？*
 
@@ -35,3 +36,4 @@ title: [TECH] Google Protocol Buffer
     protoc --go_out=. *.proto
 
 这时会生成一个名为 *.pb.go 的源文件。
+

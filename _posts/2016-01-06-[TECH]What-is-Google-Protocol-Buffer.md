@@ -1,8 +1,8 @@
 ---
 layout: post
-title: [TECH] Google Protocol Buffer
+title: Google Protocol Buffer
+tags: default
 ---
-
 **简介**
 *什么是Google Protocol Buffer？*
 

@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Google Protocol Buffer
+title: Increasing Triplet Subsequence
 category: LEETCODE
 tags: default
 ---
-##Increasing Triplet Subsequence
 ###Brief:
 Given an unsorted array return whether an increasing subsequence of length 3 exists or not in the array.
 
